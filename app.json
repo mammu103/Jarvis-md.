@@ -1,8 +1,8 @@
 {
-    "name": "Jarvis",
+    "name": "ᴄᴀᴛ ꜱᴩʏ",
     "version":"1.0.0",
-    "description": "Jarvis Multi Device whatsappbot",
-    "logo": "https://i.imgur.com/PmfMtfa.jpeg",
+    "description": "ᴄᴀᴛ ꜱᴩʏ Multi Device whatsappbot",
+    "logo": "https://kommodo.ai/i/qf1aLxlX3lMhU3Q73jbj",
     "keywords": ["whatsapp"],
     "repository": "https://github.com/Loki-Xer/Jarvis",
     "website": "https://github.com/Loki-Xer/Jarvis",
@@ -10,14 +10,14 @@
     "stack": "container",
     "env": {
         "BOT_INFO": {
-            "description": "botname;ownername;ownernumber;image url",
+            "description": "ᴄᴀᴛ ꜱᴩʏ;𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;7034167123;https://kommodo.ai/i/qf1aLxlX3lMhU3Q73jbj",
             "required": true,
-            "value":"ᴊᴀʀᴠɪꜱ;ʟᴏᴋɪ-xᴇʀ;https://i.imgur.com/VIpl3q5.mp4"
+            "value":"ᴄᴀᴛ ꜱᴩʏ;𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;https://kommodo.ai/i/qf1aLxlX3lMhU3Q73jbj"
         },
         "AUDIO_DATA": {
             "description": "audio package name",
             "required": true,
-            "value":"ʟᴏᴋɪ-xᴇʀ;ᴊᴀʀᴠɪꜱ;https://i.imgur.com/VgxJeCm.jpeg"
+            "value":"𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;ᴄᴀᴛ ꜱᴩʏ;https://kommodo.ai/i/qf1aLxlX3lMhU3Q73jbj"
         },
         "WARN_COUNT": {
             "description": "warn count",
@@ -37,7 +37,7 @@
         "MEDIA_DATA": {
             "description": "media data that uses in list",
             "required": true,
-            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;https://i.imgur.com/ltPPMTh.jpeg"
+            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;ᴄᴀᴛ ꜱᴩʏ;https://kommodo.ai/i/qf1aLxlX3lMhU3Q73jbj"
         },
         "HANDLER": {
             "description": "handler for bot. all so can be null or false",
@@ -64,12 +64,12 @@
         "STICKER_PACKNAME": {
             "description": "sticker package name",
             "required": true,
-            "value":"ʟᴏᴋɪ;ᴊᴀʀᴠɪꜱ"
+            "value":"𝛭𝑈𝛨𝛥𝛭𝛭𝛯𝐷;ᴄᴀᴛ ꜱᴩʏ"
         },
         "SUDO": {
             "description": "owner number of the bot",
             "required": false,
-            "value":"41782221168"
+            "value":"917034167123"
         }
     },
       "addons": [{
